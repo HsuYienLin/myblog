@@ -1,0 +1,129 @@
+body{
+	margin: 0;
+	background: #F0FBC1;
+}
+li{
+	list-style: none;
+	display: inline-block;
+	line-height: 50px;
+	padding: 0 20px;
+}
+li:hover{
+	background: #EEDB55;
+}
+a{
+	color: #000;
+	text-decoration: none;
+}
+.nav{
+	background: #fff;
+	height: 50px;
+	margin: 5px;
+	opacity: 0.5;
+	text-align:center; 
+	color: #000;
+}
+#username{
+	font-size: 100px;
+	color: #FFF;
+	font-family:cursive;
+	padding: 0 97px;
+	margin: -100px auto;
+}
+#saying{
+	color: #fff;
+	font-size: 50px;
+	font-weight: bold;
+	background: #EFEF06;
+	height: 135px;
+	margin: 20px 0 auto 255px;
+	padding: 20px;
+	text-align: center;
+}
+#content{
+	background:#F9FB74;
+	width: 100%;
+	margin: 50px auto;
+	opacity: 0.5;
+	font-family: 'Comic Sans MS',cursive;
+	text-align: center;
+}
+#content:hover{
+	background: #fff;
+}
+#float{
+	margin-left: 20px;
+}
+.st{
+	background: #F1BA31;
+	height: 40px;
+	width: 40px;
+	margin: 10px;
+	margin-left: 60px;
+	display: inline-block;
+}
+.nd{
+	background: #EFEF06;
+	height: 40px;
+	width: 40px;
+	margin: 10px;
+	display: inline-block;
+}
+.rd{
+	background: #F9FB74;
+	height: 40px;
+	width: 40px;
+	margin: 10px;
+	display: inline-block;
+}
+.for{
+	background: #F5A111;
+	height: 40px;
+	width: 40px;
+	margin: 10px;
+}
+.fif{
+	background: #EEDB55;
+	height: 40px;
+	width: 40px;
+	margin: 10px;
+}
+#refloat{
+	float: right;
+	margin-right: 20px;
+}
+.six{
+	background: #F9FB74;
+	height: 30px;
+	width: 30px;
+	margin: 10px;
+	float: right;
+}
+.sev{
+	background:#EEDB55 ;
+	height: 30px;
+	width: 30px;
+	margin: 10px;
+	float: right;
+}
+.eig{
+	background:#EFEF06 ;
+	height: 30px;
+	width: 30px;
+	margin: 10px;
+	float: right;
+}
+.nin{
+	background:#F1BA31 ;
+	height: 30px;
+	width: 30px;
+	margin: 10px;
+	float: right;
+}
+.ten{
+	background:#F5A111 ;
+	height: 30px;
+	width: 30px;
+	margin: 10px;
+	float: right;
+}
